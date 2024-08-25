@@ -1,0 +1,6 @@
+displayName: RG50 music pack
+name: rg50-music
+description: Change mindustry music to RG50s picks!
+author: RG50
+minGameVersion: 136
+hidden:true
